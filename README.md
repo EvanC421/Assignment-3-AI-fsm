@@ -2,11 +2,15 @@
 
 ## 
 
+Youtube link: [https://youtu.be/LlzgzgpU0sc](https://youtu.be/LlzgzgpU0sc)
+
+
+
 ## ISSUES FACED DURING IMPLEMENTATION
 
 
 
-The first issue I faced was trying to make the states within states work accurately to my design. 
+The first issue I faced was trying to make the states within states work accurately to my design.
 
 The solution was quite simple. In the script, I encapsulated part of the entire code. Then, I copied and pasted said code and edited the states to be accurate to my design.
 
